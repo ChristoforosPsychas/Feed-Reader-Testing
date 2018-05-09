@@ -52,3 +52,7 @@ Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/pr
 1. Download or clone this repository so that you can run Jasmine in your local computer
 2. Open index.html in your browser
 3. Check the tests and enjoy!
+
+# Credits
+
+Unfortunately, i needed huge help to complete this project. So i acknowledge that the community of udacity helped me a lot in order to finish this project.
